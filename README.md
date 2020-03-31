@@ -29,7 +29,7 @@ Here's what you need
 
 Your presentation must satisfy the following
 
-1.It must be done in Slidify or Rstudio Presenter
+1. It must be done in Slidify or Rstudio Presenter
 2. It must be 5 pages
 3. It must be hosted on github or Rpubs
 4. It must contained some embedded R code that gets run when slidifying the document
